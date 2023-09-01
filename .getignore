@@ -1,0 +1,4 @@
+ProtoPack-*
+
+# I don't want this to be ran a dozen times lol
+.build.ps1

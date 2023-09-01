@@ -13,4 +13,4 @@ fabric = "0.14.22"
 minecraft = "1.19.2"
 
 [options]
-datapack-folder = "datapacks"
+#datapack-folder = "datapacks"
