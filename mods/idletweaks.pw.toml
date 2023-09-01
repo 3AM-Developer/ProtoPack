@@ -1,0 +1,13 @@
+name = "Idle Tweaks"
+filename = "IdleTweaks-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vnjlu1sC/versions/C2mcCSWM/IdleTweaks-1.0.7.jar"
+hash-format = "sha1"
+hash = "363b06010adcb87977f297f87c321e5b92a188d7"
+
+[update]
+[update.modrinth]
+mod-id = "Vnjlu1sC"
+version = "C2mcCSWM"

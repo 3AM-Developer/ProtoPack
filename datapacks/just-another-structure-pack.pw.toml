@@ -1,0 +1,13 @@
+name = "Just Another Structure Pack"
+filename = "Just Another Structure Pack v1.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A9XFwNaH/versions/6p0dzN83/Just%20Another%20Structure%20Pack%20v1.5.zip"
+hash-format = "sha1"
+hash = "cc095498acccb74390c724ac3fe2df5bd6e7a522"
+
+[update]
+[update.modrinth]
+mod-id = "A9XFwNaH"
+version = "6p0dzN83"

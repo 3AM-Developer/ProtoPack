@@ -1,0 +1,16 @@
+name = "ProtoPack"
+author = "Jaegyu"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a0080ca6f9fd7fbe4b35380362c2ef331ccb6984f1c03a1bdeb190698acac816"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.2"
+
+[options]
+datapack-folder = "datapacks"

@@ -1,0 +1,72 @@
+# This is a list we use to generate PackWiz installs, and attribute mods to users before the git repo was initialized. This shouldn't be used more than once,
+# and is only used if doing a complete rebuild of the pack.
+
+
+# Base
+https://modrinth.com/mod/lambdynamiclights
+https://modrinth.com/mod/3dskinlayers
+https://modrinth.com/mod/universal-graves
+https://modrinth.com/mod/appleskin
+https://modrinth.com/mod/fallingtree
+https://modrinth.com/mod/first-person-model
+https://modrinth.com/mod/not-enough-animations
+https://modrinth.com/mod/fallingleaves
+https://modrinth.com/mod/sodium
+https://modrinth.com/plugin/simple-voice-chat
+https://modrinth.com/mod/starlight
+https://modrinth.com/mod/dynamic-fps
+https://modrinth.com/mod/memoryleakfix
+https://modrinth.com/mod/iris/version/1.4.1+1.19.2 # We need this specific version so we can use immersive portals :)
+https://modrinth.com/mod/rei
+https://modrinth.com/mod/sound-physics-remastered
+https://modrinth.com/mod/extrasounds
+
+
+# Alek
+# https://modrinth.com/mod/continuity # This conflicts with Sodium + BetterX mods. Causes a bootloop
+https://modrinth.com/mod/presence-footsteps
+https://modrinth.com/mod/betterf3
+https://modrinth.com/mod/smoothboot-fabric
+https://modrinth.com/mod/travelersbackpack
+https://modrinth.com/mod/mouse-tweaks
+https://modrinth.com/mod/betterend
+https://modrinth.com/mod/auth-me
+https://modrinth.com/mod/chat-heads
+https://modrinth.com/mod/deeperdarker
+https://modrinth.com/mod/betternether
+https://modrinth.com/mod/immersiveportals
+https://modrinth.com/mod/fabric-seasons
+https://modrinth.com/mod/invmove
+https://modrinth.com/mod/double-doors
+https://modrinth.com/mod/villager-names-serilum
+https://modrinth.com/mod/immersive-structures
+https://modrinth.com/mod/low-fire
+https://modrinth.com/mod/friends-and-foes
+https://modrinth.com/mod/wdmgslt
+https://modrinth.com/datapack/mob-captains
+https://modrinth.com/mod/netherportalfix
+https://modrinth.com/mod/mavm
+https://modrinth.com/mod/sleep-warp
+https://modrinth.com/mod/create-steam-n-rails
+https://modrinth.com/mod/the-bumblezone-fabric
+https://modrinth.com/mod/creeper-overhaul
+https://modrinth.com/mod/lovely_snails
+https://modrinth.com/mod/runes
+https://modrinth.com/mod/voice-chat-interaction
+https://modrinth.com/mod/idletweaks
+https://modrinth.com/mod/inventory-management
+https://modrinth.com/mod/tiny-item-animations
+https://modrinth.com/mod/spyglass-improvements
+https://modrinth.com/mod/rightclickharvest
+https://modrinth.com/mod/pinglist
+https://modrinth.com/mod/create-track-map
+https://modrinth.com/datapack/just-another-structure-pack/version/1.5 # I hope it handles datapacks
+
+
+# Jaegyu
+# -> Mods I enjoy
+https://modrinth.com/mod/create-fabric
+
+# -> Pack Devel Stuff
+https://modrinth.com/mod/kubejs
+https://modrinth.com/mod/dataloader
