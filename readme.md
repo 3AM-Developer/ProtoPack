@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-1. You'll need [Go]([https://go.dev/dl/](https://go.dev/dl/") and [git](https://git-scm.com/) for Windows.
+1. You'll need [Go]("https://go.dev/dl/") and [git](https://git-scm.com/) for Windows.
 3. Then you need to install [packwiz](https://github.com/packwiz/packwiz) by running `go install github.com/packwiz/packwiz@latest`
 4. Clone this repo: `git clone https://github.com/3AM-Developer/ProtoPack.git`
 
