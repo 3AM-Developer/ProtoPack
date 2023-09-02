@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".getignore"
+hash = "3ec3dbc40349d6f1c39b3e9866d692efbca060d79ae8aa56113c8bcd0caf6b96"
+
+[[files]]
 file = "build.ps1"
-hash = "6c64cdf12bc9f79c621fa81c846689346bb68b7503e04f6308469e6fc2266a39"
+hash = "70e31d2b3a647443b087d5d54d4b5848b6244f7b97885812430f564d43804050"
 
 [[files]]
 file = "datapacks/just-another-structure-pack.pw.toml"
@@ -11,11 +15,7 @@ metafile = true
 
 [[files]]
 file = "deps"
-hash = "67975bea38eba1381f8cc209a3dface3bfe1abf678c6464a96a222b7b978bd62"
-
-[[files]]
-file = "interm_dep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "b6d6d1b9d0047453271ee3c5ebdde70071fd2001231690ac828132f930bf1a50"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -115,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
 
 [[files]]
@@ -361,3 +366,23 @@ metafile = true
 file = "mods/wdmgslt.pw.toml"
 hash = "9afc2e2eb5faaea601f9eab415ea2b43f058ccbcb5c0ebe6814e0ba63b69362a"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "f4ddd56bf9e270188e5ef90a9202730be4c44a3f2eb68e128ee43f0f6e141335"
+
+[[files]]
+file = "resources/select_versions.png"
+hash = "e9edcd2d0d6306717b8251839cbf506b5951740a813027c351d0f989d06196e5"
+
+[[files]]
+file = "resources/specify_loader_and_gameversion.png"
+hash = "c75eacbbbd47804ece77b15039d7adf2af2829fb3a47951462d605d700b6dc49"
+
+[[files]]
+file = "resources/unversioned_mod.png"
+hash = "06ebc3dc7c225698f59b888be39239dfc14c592de84bb8892701d1c7b97397d9"
+
+[[files]]
+file = "resources/versioned_mod.png"
+hash = "c9b39ff5d388255ac0370452d131574b3a29a65ff0a47cf81082e9d843b3b603"
